@@ -1,0 +1,11 @@
+# Licensed CRSP/Compustat data and everything derived from it stay out of this repository.
+# The notebooks create these folders when they are run with WRDS access.
+data/raw_data/wrds/*
+!data/raw_data/wrds/README.md
+processed/
+output/
+
+# System and editor files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/

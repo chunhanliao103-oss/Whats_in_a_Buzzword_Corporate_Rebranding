@@ -1,0 +1,98 @@
+event_id,public_announcement_date,date_confidence,announcement_timing,deal_type,needs_second_check,audit_note,source_url,source_note
+1,1998-01-28,A,unknown,b,0,"8-K: will change name to Egghead.com, shift to Internet commerce and close 80 stores",,
+2,1998-02-26,A,unknown,a,0,DEF 14A proposes the rename,,
+3,1998-05-20,A,unknown,a,0,PRE 14A proposes the rename,,
+4,,C,unknown,c,1,filings say renamed in July 1998 with the ICAST acquisition; no dated announcement found,,
+5,1998-07-02,A,unknown,a,0,PRE 14C lists the rename,,
+6,1998-11-16,B,unknown,a,0,10-Q says the company announced the rename; trade journal dates it 16 Nov 1998,,
+7,,C,unknown,a,1,10-Q: renamed in August 1998 subject to approval; announcement day unknown (USPTO filing is not an announcement),,
+8,1998-12-22,A,unknown,a,0,Broadcasting & Cable 22 Dec 1998: new name SpeedUs.com announced,,
+9,1999-02-08,B,unknown,b,1,8-K under the new name and interview date 8 Feb 1999 (relaunch); Tech Monitor dates rename to Dec 1998 without a day,,
+10,1999-03-30,B,unknown,a,0,"news of 31 Mar 1999 reports the rename as just done; no earlier announcement found, so day 0 = first day under the new name",,
+11,,C,unknown,a,0,month only (April 1999),,
+12,1999-04-20,A,unknown,a,0,DEF 14A proposes the rename,,
+13,1999-03-09,A,unknown,a,0,PRE 14A proposes the rename,,
+14,1999-04-13,A,unknown,a,0,PRE 14A (written consent) proposes the rename,,
+15,1999-06-03,B,unknown,a,1,8-K filed under the new name; text of the 8-K not checked,,
+16,,C,unknown,a,0,no source found,,
+17,1998-11-10,A,unknown,a,0,PRE 14A proposes the rename,,
+18,,C,unknown,a,0,no source found,,
+19,1999-05-28,A,unknown,a,0,PRE 14A proposes the rename,,
+20,1999-07-19,A,unknown,a,0,PR Newswire 19 Jul 1999 announces the new name; 8-K same day,,
+21,1999-06-02,A,unknown,a,0,press release 2 Jun 1999: GoodNoise changing its name to EMusic.com,,
+22,,C,unknown,a,1,ConnectInc.com used as d/b/a before Jan 1999; start of public use unknown,,
+23,1999-07-20,B,unknown,c,1,"PRE 14A (rename with the CyberCare acquisition); matched passage names the acquired firm, rename proposal to verify",,
+24,1999-04-16,A,unknown,a,0,PRE 14A proposes the rename,,
+25,,C,unknown,c,1,renamed with the PopMail.com merger; only month known,,
+26,,C,unknown,c,1,reverse merger with Stockwalk (8-K 22 Jul 1999 reports the 7 Jul closing); first public use of the name not dated,,
+27,1999-10-12,B,unknown,a,0,8-K: event of 12 Oct 1999 = rename; no earlier announcement found,,
+28,,C,unknown,a,1,adam.com used as d/b/a in 1999 10-K; announcement day not verified,,
+29,1999-09-24,A,unknown,a,0,6-K meeting notice proposes the rename,,
+30,,C,unknown,a,1,foreign filer; no source found,,
+31,1999-09-14,A,unknown,a,0,PRE 14A proposes the rename,,
+32,,C,unknown,a,0,foreign filer; no source found,,
+33,1999-07-09,A,unknown,c,0,"8-K: merger agreement, surviving corporation to be named Adatom.com (reverse merger)",,
+34,1999-09-28,A,unknown,a,0,company press release 28 Sep 1999,,
+35,1999-07-14,A,unknown,c,0,Onsale-Egghead.com merger announced 14 Jul 1999; combined firm named Egghead.com,,
+36,1999-10-13,B,unknown,a,0,8-K carries the press release; release may predate the filing by a few days,,
+37,1999-11-05,A,unknown,a,0,PRE 14A proposes the rename,,
+38,1999-12-16,B,unknown,a,0,press release of 17 Dec 1999 announces the completed rename; no earlier announcement,,
+39,1999-10-06,B,unknown,c,1,DEF 14A merger proxy proposes the rename; the merger was announced earlier (name then not verified),,
+40,1999-09-28,B,unknown,c,1,8-K merger agreement permits the rename to Hollywood.com,,
+41,1999-11-09,A,unknown,a,0,PRE 14A proposes the rename,,
+42,1999-10-08,A,unknown,b,0,PRE 14A proposes the rename; firm moving from practice management to the HealthGrades portal,,
+43,,C,unknown,a,1,foreign filer; no source found,,
+44,1999-12-13,A,unknown,c,1,S-4 for the Heaven's Door merger proposes the rename; merger announcement may be earlier,,
+45,,C,unknown,a,1,"10-Q: rename announced in August 1999, exact day unknown",,
+46,1999-12-09,A,unknown,a,0,PRE 14A proposes the rename,,
+47,2000-02-15,B,unknown,a,0,424B3: rename effective 15 Feb 2000 (merger of a name-holding subsidiary); no earlier announcement,,
+48,,C,unknown,a,0,no source found,,
+49,1999-04-12,A,unknown,c,0,8-K carries the press release dated 12 Apr 1999: acquisition of WorldPages.com and rename on closing,,date stated inside the SEC filing found by our own scan
+50,2000-03-08,B,unknown,a,0,8-A12G under the new name on the effective date; no earlier announcement,,
+51,2000-02-14,B,unknown,a,1,8-K under the new name; text of the 8-K not checked,,
+52,2000-04-05,B,unknown,a,1,8-K says a news release of 5 Apr 2000 announced the rename (release itself not seen),,date stated inside the SEC filing found by our own scan
+53,2000-03-07,A,unknown,a,0,PRE 14C proposes the rename,,
+54,1999-11-19,A,unknown,a,0,8-K: board recommends the rename to kforce.com,,
+55,2000-06-01,B,unknown,a,0,8-K: rename effective 1 Jun 2000 8:00 am; no earlier announcement,,
+56,2000-02-07,B,unknown,b,1,S-3/A states the intended rename; an earlier filing may contain it,,
+57,2000-04-18,A,unknown,a,0,PRE 14A proposes the rename (same proxy seeks an equity line),,
+58,2000-04-17,A,unknown,c,1,PREM14A (transaction proxy) proposes the rename; transaction not verified,,
+59,2000-04-12,A,unknown,a,0,DEF 14A proposes the rename,,
+60,2000-07-14,B,unknown,b,1,10-K: board approved the rename in April 2000 with an e-business strategy; earlier announcement not found,,
+61,2000-10-19,B,unknown,c,1,S-4/A: RMI to rename after the merger; the original S-4 may be earlier,,
+62,2001-06-07,A,after_close,c,0,"Joint press release dated June 7, 2001 (filed as 425 on June 8): new company to be named United Online; CNN Money posted the story at 7:45 pm ET on June 7 (after the close)",https://www.sec.gov/Archives/edgar/data/1018035/000089375001500135/juno.txt,"Joint press release dated June 7, 2001 (filed as 425 on June 8): new company to be named United Online; CNN Money posted the story at 7:45 pm ET on June 7 (after the close)"
+63,2002-04-25,A,unknown,a,0,8-K press release of 25 Apr 2002,,
+64,,C,unknown,a,0,no source found,,
+65,2004-04-15,A,unknown,a,0,DEF 14A proposes the rename,,
+66,2005-12-28,A,before_open,c,0,"Press release 'Interland completes acquisition of Web.com assets', Wednesday December 28, 8:30 am ET (8-K exhibit filed Dec 29)",https://www.sec.gov/Archives/edgar/data/854460/000091406205000793/interland8k122305ex99.txt,"Press release 'Interland completes acquisition of Web.com assets', Wednesday December 28, 8:30 am ET (8-K exhibit filed Dec 29)"
+67,2006-10-27,A,unknown,a,0,8-K press release 27 Oct 2006,,
+68,2007-10-24,A,unknown,a,0,PRE 14C announces the rename,,
+69,2008-02-19,B,unknown,a,0,10-K filed 11 Mar 2008 states that the company announced on 19 Feb 2008 its intention to change its name to Web.com; the release itself was not found,https://www.sec.gov/Archives/edgar/data/1095291/000104746908002496/a2183475z10-k.htm,10-K filed 11 Mar 2008 states that the company announced on 19 Feb 2008 its intention to change its name to Web.com; the release itself was not found
+70,2009-04-10,B,unknown,b,1,PREM14A: sale of the enterprise business plus rename; the sale was announced earlier,,
+71,2011-11-01,B,unknown,b,1,PREM14A: asset sale plus rename to Internet Patents; sale announced earlier,,
+72,2017-10-04,A,unknown,b,0,8-K press release 4 Oct 2017: shift from biotech to blockchain,,
+73,2017-12-21,A,unknown,b,0,"Press release dated December 21, 2017: Long Island Iced Tea Corp. to rebrand as Long Blockchain Corp. (8-K exhibit filed Dec 22)",https://www.sec.gov/Archives/edgar/data/1629261/000149315217014968/ex99-1.htm,"Press release dated December 21, 2017: Long Island Iced Tea Corp. to rebrand as Long Blockchain Corp. (8-K exhibit filed Dec 22)"
+74,2020-07-27,A,unknown,a,0,"Business Wire 27 Jul 2020, effective immediately",,
+75,2020-06-29,A,unknown,d,0,SPAC deal announcement names the combined firm,,
+76,,C,unknown,d,1,SPAC deal with Lottery.com announced Feb 2021; name of combined firm in that release not verified,,
+77,2021-06-04,A,unknown,d,0,SPAC deal press release: combined company will be named BigBear.ai,,
+78,,C,unknown,a,1,plan disclosed in a Q3 2021 6-K whose date was not verified,,
+79,2022-07-12,A,before_open,b,0,press release 12 Jul 2022 08:30 EDT: re-brand as Polished and shift of focus,,
+80,2023-03-30,A,unknown,e,0,press release: rename together with a reverse split and planned M&A,,
+81,2022-08-25,A,unknown,d,0,"8-K/425: agreement signed Aug 24 (not public); press release announcing the deal and the renaming to Bitcoin Depot Inc. issued August 25, 2022",https://www.sec.gov/Archives/edgar/data/1901799/000119312522229484/d396102d425.htm,"8-K/425: agreement signed Aug 24 (not public); press release announcing the deal and the renaming to Bitcoin Depot Inc. issued August 25, 2022"
+82,2023-02-27,A,unknown,d,1,"Press release dated February 27, 2023 (8-K exhibit filed Feb 28): combined company renamed Jet.AI; release time not verified",https://www.sec.gov/Archives/edgar/data/1861622/000149315223006133/ex99-1.htm,"Press release dated February 27, 2023 (8-K exhibit filed Feb 28): combined company renamed Jet.AI; release time not verified"
+83,2023-04-11,A,unknown,d,0,"Press release dated April 11, 2023, filed as 8-K/425 the same day: RCLF to change its name to SpectralAI, Inc.",https://www.sec.gov/Archives/edgar/data/1833498/000114036123017680/brhc20051269_ex99-1.htm,"Press release dated April 11, 2023, filed as 8-K/425 the same day: RCLF to change its name to SpectralAI, Inc."
+84,2023-03-10,A,unknown,d,0,Business Wire 10 Mar 2023: letter of intent names Airship AI,,
+85,2024-01-10,A,unknown,b,0,"8-K filed Jan 10, 2024 under the new name Gaxos.ai (charter amendment of Jan 5 was not public)",https://www.sec.gov/Archives/edgar/data/1895618/000121390024002754/ea191482-8k_gaxosaiinc.htm,"8-K filed Jan 10, 2024 under the new name Gaxos.ai (charter amendment of Jan 5 was not public)"
+86,2024-02-12,A,unknown,a,0,"8-K and press release filed Feb 12, 2024 (board approval Feb 6 was not public)",https://www.sec.gov/Archives/edgar/data/1863990/000110465924014677/tm245832d1_8k.htm,"8-K and press release filed Feb 12, 2024 (board approval Feb 6 was not public)"
+87,2024-03-18,A,unknown,b,0,"8-K with press release filed March 18, 2024: Sarcos is now Palladyne AI (March 11 cover date = Nasdaq notice)",https://www.sec.gov/Archives/edgar/data/1826681/000095017024032876/strc-20240311.htm,"8-K with press release filed March 18, 2024: Sarcos is now Palladyne AI (March 11 cover date = Nasdaq notice)"
+88,2024-07-26,A,unknown,a,0,"6-K filed July 26, 2024 with the AGM notice proposing the name Global Mofy AI",https://www.sec.gov/Archives/edgar/data/1913749/000101376224001610/ea0210059ex99-1_globalmofy.htm,"6-K filed July 26, 2024 with the AGM notice proposing the name Global Mofy AI"
+89,2025-02-13,A,unknown,b,0,"Business Wire release February 13, 2025 'WiSA Technologies is Now Datavault AI Inc.'; SEC full-text search finds no earlier filing naming Datavault AI",https://www.businesswire.com/news/home/20250213340316/en/WiSA-Technologies-is-Now-Datavault-AI-Inc.,"Business Wire release February 13, 2025 'WiSA Technologies is Now Datavault AI Inc.'; SEC full-text search finds no earlier filing naming Datavault AI"
+90,2025-05-28,A,unknown,b,0,"6-K filed May 28, 2025: name change to Super X AI Technology (May 14 board approval was not public)",https://www.sec.gov/Archives/edgar/data/1897087/000121390025048017/ea0242601-6k_junee.htm,"6-K filed May 28, 2025: name change to Super X AI Technology (May 14 board approval was not public)"
+91,2025-07-31,A,unknown,e,0,rename announced with the Q2 2025 results,,
+92,2025-07-28,A,unknown,b,0,"Press release dated July 28, 2025 (6-K exhibit filed July 29) naming Robo.ai; SEC full-text search finds no earlier mention",https://www.sec.gov/Archives/edgar/data/1932737/000121390025068410/ea025024201ex99-1_nwtninc.htm,"Press release dated July 28, 2025 (6-K exhibit filed July 29) naming Robo.ai; SEC full-text search finds no earlier mention"
+93,2025-05-12,A,unknown,c,0,merger press release: reverse merger with American Bitcoin,,
+94,2025-04-14,A,unknown,d,0,SPAC deal press release: combined company will be named Kodiak AI,,
+95,2025-10-03,A,unknown,c,0,"PR Newswire release dated Oct. 3, 2025 (6-K exhibit filed Oct 6): merger with Core Gaming closed, company renamed Core AI Holdings",https://www.sec.gov/Archives/edgar/data/1649009/000149315225017099/ex99-1.htm,"PR Newswire release dated Oct. 3, 2025 (6-K exhibit filed Oct 6): merger with Core Gaming closed, company renamed Core AI Holdings"
+96,2025-11-06,A,unknown,e,1,press release: rename together with the move to the NYSE,,
+97,2025-10-31,A,unknown,a,0,"6-K filed Oct 31, 2025 with the reconvened EGM notice proposing Micropolis AI Robotics; SEC full-text search finds no earlier mention",https://www.sec.gov/Archives/edgar/data/1993431/000121390025104346/ea026313901ex99-2_micropolis.htm,"6-K filed Oct 31, 2025 with the reconvened EGM notice proposing Micropolis AI Robotics; SEC full-text search finds no earlier mention"
